@@ -1,0 +1,473 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) 
+{
+	/*Header Start*/
+		.menu ul li a
+		{
+			font-size: 16px;
+			padding: 0 0px !important;
+			text-align: right;
+		}
+	/*Header End*/
+
+	/*Slider Start*/
+		.slider
+		{
+			padding: 40px 0 !important;
+		}
+		.slider_content p
+		{
+		    font-size: 18px;
+		}
+		.slider_content h1
+		{
+		    font-size: 23px;
+		    margin-bottom: 70px;
+		}
+		.slider_content button
+		{
+			padding-right: 25px;
+			padding-left: 25px;
+		}
+	/*Slider End*/
+
+	/*Web Development start*/
+		.web_development
+		{
+			padding: 40px 0 !important;
+		}
+	/*Web Development End*/
+
+	.common_h1
+	{
+		font-size: 25px;
+	}
+	.common_p
+	{
+		font-size: 16px;
+		color: #777777; 
+	}
+
+	/*Identity Branding Start*/
+		.identity_branding
+		{
+			padding: 40px 0 !important;
+		}
+	/*Identity Branding End*/
+
+	/*Features Start*/
+		.features
+		{
+			padding: 40px 0 !important;
+
+		}
+		.single
+		{
+			margin-bottom: 25px;
+		}
+		.icon_img
+		{
+			text-align: center;
+			margin-bottom: 10px;
+		}
+		.icon_content
+		{
+			text-align: center;
+		}
+		.icon_content p
+		{
+			font-size: 16px;
+			color: #777777;
+		}
+	/*Features End*/
+
+	/*Client Start*/
+		.client
+		{
+			padding: 40px 0 !important;
+		}
+		.blq
+		{
+			margin-top: 20px;
+		}
+		.blq p
+		{
+			font-size: 18px;
+		}
+		.blq footer
+		{
+			font-size: 16px;
+		}
+	/*Client End*/
+
+	/*Brand Start*/
+		.brand_name ul li a
+		{
+		    padding: 0;
+		}
+	/*Brand End*/
+
+	/*Amazing Start*/
+		.amazing
+		{
+			padding: 40px 0 !important;
+		}
+		.single2
+		{
+			margin-bottom: 50px;
+		}
+		.single2_content p
+		{
+			margin-bottom: 5px;
+		}
+	/*Amazing End*/
+
+	/*Information Start*/
+		.information
+		{
+			padding: 40px 0 !important;
+		}
+		.hello
+		{
+			text-align: center;
+		}
+		.contact
+		{
+			text-align: left;
+			margin-top: 5px;
+		}
+		.contact_content p
+		{
+			font-size: 16px;
+		}
+		.contact_form
+		{
+			text-align: center;
+		}
+		.form_name
+		{
+			font-size: 16px;
+			width: 250px;
+		}
+		.form_email
+		{
+			font-size: 16px;
+			width: 250px;
+		}
+		.form_message
+		{
+			font-size: 16px;
+			width: 250px;
+		}
+	/*Information End*/
+}
+
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+	/*Header Start*/
+		.menu ul li a
+		{
+			padding: 0 0px !important;
+			text-align: right;
+		}
+	/*Header End*/
+
+	/*Slider Start*/
+		.slider
+		{
+			padding: 60px 0 !important;
+		}
+		.slider_content p
+		{
+		    font-size: 25px;
+		}
+		.slider_content h1
+		{
+		    font-size: 45px;
+		}
+		.slider_content button
+		{
+			padding-right: 40px;
+			padding-left: 40px;
+		}
+	/*Slider End*/
+
+	/*Web Development start*/
+		.web_development
+		{
+			padding: 60px 0 !important;
+		}
+	/*Web Development End*/
+
+	.common_h1
+	{
+		font-size: 45px;
+	}
+	.common_p
+	{
+		font-size: 16px;
+		color: #777777; 
+	}
+
+	/*Identity Branding Start*/
+		.identity_branding
+		{
+			padding: 60px 0 !important;
+		}
+	/*Identity Branding End*/
+
+	/*Features Start*/
+		.features
+		{
+			padding: 60px 0 !important;
+
+		}
+		.single
+		{
+			margin-bottom: 25px;
+		}
+		.icon_img
+		{
+			text-align: center;
+			margin-bottom: 10px;
+		}
+		.icon_content
+		{
+			text-align: center;
+		}
+		.icon_content p
+		{
+			font-size: 16px;
+			color: #777777;
+		}
+	/*Features End*/
+
+	/*Client Start*/
+		.client
+		{
+			padding: 60px 0 !important;
+		}
+		.blq
+		{
+			margin-top: 20px;
+		}
+		.blq p
+		{
+			font-size: 22px;
+		}
+		.blq footer
+		{
+			font-size: 16px;
+		}
+	/*Client End*/
+
+	/*Brand Start*/
+		.brand_name ul li a
+		{
+		    padding: 0;
+		}
+	/*Brand End*/
+
+	/*Amazing Start*/
+		.amazing
+		{
+			padding: 60px 0 !important;
+		}
+		.single2
+		{
+			margin-bottom: 50px;
+		}
+		.single2_content p
+		{
+			margin-bottom: 5px;
+		}
+	/*Amazing End*/
+
+	/*Information Start*/
+		.information
+		{
+			padding: 60px 0 !important;
+		}
+		.hello
+		{
+			text-align: center;
+		}
+		.contact
+		{
+			text-align: center;
+		}
+		.contact_content p
+		{
+			font-size: 16px;
+		}
+		.contact_form
+		{
+			text-align: center;
+		}
+		.form_name
+		{
+			font-size: 16px;
+		}
+		.form_email
+		{
+			font-size: 16px;
+		}
+		.form_message
+		{
+			font-size: 16px;
+		}
+	/*Information End*/
+}
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+	/*Header Start*/
+		.menu ul li a
+		{
+			padding: 0 0px !important;
+			text-align: right;
+		}
+	/*Header End*/
+
+	/*Slider Start*/
+		.slider
+		{
+			padding: 80px 0 !important;
+		}
+		.slider_content p
+		{
+		    font-size: 28px;
+		}
+		.slider_content h1
+		{
+		    font-size: 50px;
+		}
+		.slider_content button
+		{
+			padding-right: 45px;
+			padding-left: 45px;
+		}
+	/*Slider End*/
+
+	/*Web Development start*/
+		.web_development
+		{
+			padding: 80px 0 !important;
+		}
+	/*Web Development End*/
+
+	.common_h1
+	{
+		font-size: 50px;
+	}
+	
+	/*Identity Branding Start*/
+		.identity_branding
+		{
+			padding: 80px 0 !important;
+		}
+	/*Identity Branding End*/
+
+	/*Features Start*/
+		.features
+		{
+			padding: 80px 0 !important;
+
+		}
+		.icon_img
+		{
+			text-align: center;
+			margin-bottom: 10px;
+		}
+		.icon_content
+		{
+			text-align: center;
+		}
+		.icon_content p
+		{
+			font-size: 16px;
+			color: #777777;
+		}
+	/*Features End*/
+
+	/*Client Start*/
+		.client
+		{
+			padding: 80px 0 !important;
+		}
+		.blq
+		{
+			margin-top: 20px;
+		}
+	/*Client End*/
+
+	/*Brand Start*/
+		.brand_name ul li a
+		{
+		    padding: 0;
+		}
+	/*Brand End*/
+
+	/*Amazing Start*/
+		.amazing
+		{
+			padding: 80px 0 !important;
+		}
+	/*Amazing End*/
+
+	/*Information Start*/
+		.information
+		{
+			padding: 80px 0 !important;
+		}
+		.hello
+		{
+			text-align: center;
+		}
+		.contact_form
+		{
+			text-align: center;
+		}
+	/*Information End*/
+}
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+	/*Slider Start*/
+		.slider_content p
+		{
+		    font-size: 30px;
+		}
+		.slider_content h1
+		{
+		    font-size: 55px;
+		}		
+	/*Slider End*/
+
+	.common_h1
+	{
+		font-size: 55px;
+	}
+
+	/*Brand Start*/
+		.brand_name ul li a
+		{
+		    padding: 0px 10px;
+		}
+	/*Brand End*/
+
+}
+
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px)
+{
+
+}

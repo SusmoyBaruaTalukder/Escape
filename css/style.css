@@ -1,0 +1,313 @@
+/*Fonts Integration*/
+@font-face
+{
+	font-family: BrandonGrotesque-Light;
+	src: url(../fonts/BrandonGrotesque-Light.ttf);	
+}
+@font-face
+{
+	font-family: BrandonGrotesque-Regular;
+	src: url(../fonts/BrandonGrotesque-Regular.ttf);	
+}@font-face
+{
+	font-family: BrandonGrotesque-Medium;
+	src: url(../fonts/BrandonGrotesque-Medium.ttf);	
+}@font-face
+{
+	font-family: BrandonGrotesque-Bold;
+	src: url(../fonts/BrandonGrotesque-Bold.ttf);	
+}
+}@font-face
+{
+	font-family: Cuban-Regular;
+	src: url(../fonts/Cuban-Regular.ttf);	
+}
+/*Fonts Integration*/
+
+body
+{
+	font-family: BrandonGrotesque-Regular;
+	color: #ffffff;
+}
+/*Header Start*/
+header
+{
+	padding: 20px 0;
+	font-size: 22px;
+}
+.background_img
+{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.menu ul li a
+{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 18px;
+	padding: 0 20px !important;
+	color: #ffffff !important;
+	transition: .5s;
+}
+.menu ul li a:hover
+{
+	color: #555555 !important;
+}
+.menu ul li:last-child a
+{
+	padding-right: 0 !important;
+}
+/*Header End*/
+
+/*Slider Start*/
+.slider
+{
+	padding: 100px 0 !important;
+}
+.slider_content p
+{
+	font-family: BrandonGrotesque-Light;
+	font-size: 32px;
+	font-weight: 200;
+}
+.slider_content h1
+{
+	text-transform: uppercase;
+	font-family: BrandonGrotesque-Bold;
+	font-size: 67px;
+	font-weight: 700;
+	margin-bottom: 95px;
+}
+.slider_content button
+{
+	color: #ffffff;
+	border: solid 2px #ffffff;
+	padding-right: 50px;
+	padding-left: 50px;
+	transition: .5s;
+}
+/*Slider End*/
+
+/*Web Development start*/
+.web_development
+{
+	padding: 100px 0 !important;
+}
+.web_content
+{
+
+}
+.common_h1
+{
+	font-family: BrandonGrotesque-Light;
+	font-weight: 400;
+	font-size: 60px;
+	color: #222222;
+	margin-bottom: 30px;
+}
+.common_b
+{
+	font-family: BrandonGrotesque-Bold;
+	font-weight: 700;
+}
+.common_p
+{
+	font-size: 18px;
+	color: #777777; 
+}
+.web_image
+{
+	margin-top: 35px;
+}
+/*Web Development End*/
+
+/*Identity Branding Start*/
+.identity_branding
+{
+	background-color: #fafafa;
+	padding: 100px 0 !important;
+}
+.identity_image
+{
+	margin-top: 35px;
+}
+/*Identity Branding End*/
+
+/*Features Start*/
+.features
+{
+	padding: 100px 0 !important;
+
+}
+.single
+{
+	margin-bottom: 40px;
+}
+.icon_img
+{}
+.icon_content
+{}
+.icon_content h1
+{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 22px;
+	color: #222222;
+}
+.icon_content p
+{
+	font-size: 18px;
+	color: #777777;
+}
+/*Features End*/
+
+/*Client Start*/
+.client
+{
+	background-color: #fafafa;
+	padding: 100px 0 !important;
+}
+.client_title h1
+{
+	margin-bottom: 0px;
+}
+.client_title p
+{
+	margin-bottom: 40px !important;
+}
+.black
+{
+	margin-bottom: 20px !important;
+}
+.blq
+{
+	background-color: #ffffff;
+	margin-top: 30px;
+	padding: 35px 75px;
+}
+.blq p
+{
+	font-size: 26px;
+	color: #777777; 
+}
+.blq footer
+{
+	font-family: BrandonGrotesque-Regular;
+	font-size: 20px;
+	color: #7690c5;
+}
+/*Client End*/
+
+/*Brand Start*/
+.brand_name
+{
+	margin: 50px 0;
+}
+.brand_name ul li a
+{
+	padding: 0px 20px;
+}
+/*Brand End*/
+
+/*Amazing Start*/
+.amazing
+{
+	background-color: #111111;
+	padding: 100px 0 !important;
+}
+.amazing_title h1
+{
+	color: #ffffff;
+	margin-bottom: 0px;
+}
+.amazing_title p
+{
+	margin-bottom: 40px !important;
+}
+.single2
+{}
+.single2_content
+{}
+.single2_content h3
+{
+	font-family: BrandonGrotesque-Bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+.single2_content p
+{
+	font-family: BrandonGrotesque-Regular;
+	font-size: 16px;
+	color: #ebebeb;
+}
+.single2_icon ul li a
+{}
+/*Amazing End*/
+
+/*Information Start*/
+.information
+{
+	background-color: #7690c5;
+	padding: 100px 0 !important;
+}
+.information_content
+{}
+.hello
+{}
+.hello h1
+{
+	color: #ffffff;
+	margin-bottom: 10px;
+}
+.hello p
+{
+	font-family: BrandonGrotesque-Regular;
+	color: #ffffff;
+	margin-bottom: 30px;
+}
+.contact
+{
+	margin-top: 10px;
+}
+.contact_icon
+{
+	padding-right: 5px;
+}
+.contact_content p
+{
+	font-size: 18px;
+}
+.contact_form
+{
+	margin-top: 15px;
+}
+.form_name
+{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 18px;
+	color: #bbbbbb;
+    width: 450px;
+    margin-bottom: 20px;
+    min-height: 40px;
+    padding-left: 10px;
+}
+.form_email
+{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 18px;
+	color: #bbbbbb;
+	width: 450px;
+	min-height: 40px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.form_message
+{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 18px;
+	color: #bbbbbb;
+	width: 450px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+}
+/*Information End*/
